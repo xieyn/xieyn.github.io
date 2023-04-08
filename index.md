@@ -4,6 +4,8 @@ title: Homepage of Dr. Xie
 
 # 谢永宁 博士
 
+硕士生导师
+
 研究兴趣：计算岩土力学、土动力学、岩土地震工程
 
 邮箱：_cexieyn@fzu.edu.cn_

@@ -12,6 +12,7 @@
 
 ## 工作经历
 * 2014.12 -  福州大学，讲师
+<!--- RA? TA? --->
 
 ## 教学
 * 本科生：《结构力学》、《建筑材料》
@@ -27,7 +28,18 @@
 
 ## 其他
 
+<!---
+### 社会兼职
+* 青年
+* 国际
+
+### 荣誉奖励
+* 福建省水利科技一等奖，2021，排名第4
+* 优秀班主任，年份？
+* 2018-2022年度工会积极分子
+
 ### 软件著作权
+--->
 
 ### 代码
   * [A simple FEM implementation with Mathematica](https://github.com/xieyn/fem-with-mathematica) Original notebook sent via email upon request

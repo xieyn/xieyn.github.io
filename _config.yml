@@ -1,0 +1,21 @@
+name: "谢永宁博士个人主页"
+description: "Personal webpage of Dr. Xie"
+
+url: '' 
+baseurl: ''
+
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+source: .
+destination: ./_site
+
+sass:
+    style: :compressed
+    sass_dir: assets/css/
+

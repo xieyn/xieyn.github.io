@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>
+        {% if page.title %}
+            {{ page.title }}
+        {% else %} 
+            {{ site.name }} &mdash; {{ site.description }}
+        {% endif %}
+    </title>
+
+    <link rel="stylesheet" href="{{siteAssetUrl}}/assets/css/shared.css">
+    {% if site.highlighter %}
+        <link rel='stylesheet' href='{{ site.url }}/assets/css/syntax.css' type='text/css'>
+    {% endif %}
+    
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+</head>
+
+<body>
+    {% include header.html %}
+
+    {{ content }}
+<hr>    
+    <center><small> 2023-{{ "now" | date: '%Y' }} by xieyn.net <a href="https://xieyn.net" rel="me"></a></small></center>
+</body>
+
+<script src="/assets/js/newTab.js"></script>
+
+</html>

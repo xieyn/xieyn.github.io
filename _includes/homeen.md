@@ -1,6 +1,6 @@
 
 ## Contacts
-* **Office**：National Science and Technology Park of Fuzhou University, Building 6, office 312
+* **Office**：Room 312, Building No. 6, National Science and Technology Park of Fuzhou University
 * **Email**：_cexieyn AT fzu.edu.cn_
 * **Address**：Zijin School of Geology and Mining, Fuzhou University, 350108, Fuzhou City, Fujian, China
 

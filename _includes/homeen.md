@@ -1,7 +1,5 @@
 
-## Personal Information
-
-* **Research interest**：Computational geomechancis, soil dynamics, geotechnical earthquake engineering
+## Contacts
 * **Office**：National Science and Technology Park of Fuzhou University, Building 6, office 312
 * **Email**：_cexieyn AT fzu.edu.cn_
 * **Address**：Zijin School of Geology and Mining, Fuzhou University, 350108, Fuzhou City, Fujian, China
@@ -18,7 +16,12 @@
 * Undergraduate：Structural Mechanics, Construction Materials
 * Graduate：Academic English, Numerical Methods for Geotechnical and Geological Engineering, Soil Dynamics
 
-## Research Projects
+## Research
+
+### Research interests
+* Computational geomechancis, soil dynamics, geotechnical earthquake engineering
+
+### Research grants
 * National Natural Science Foundation of China, *Macroscale behaviors and associated microscale mechanisms of seismic wave propagation and void redistribution during earthquake-induced liquefaction*, 2023-2025, PI
 * Opening Fund of Key Laboratory of Geohazard Prevention of Hilly Mountains, Ministry of Natural Resources (Fujian Key Laboratory Of Geohazard Prevention), *Dynamic properties of clayey decomposed granite residuals and their applications in the seismic analysis of slopes*, 2020-2022, PI
 
